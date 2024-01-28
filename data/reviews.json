@@ -1,0 +1,32 @@
+{
+  "reviews": [
+    {
+      "id": "1",
+      "img": "./profile-1.webp",
+      "header": "Rosa White",
+      "points": "1.5",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing. lorem ipsum dolor sit amet, consectetur adipiscing"
+    },
+    {
+      "id": "2",
+      "img": "./profile-2.png",
+      "header": "Allen Wilds",
+      "points": "3.5",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing. lorem ipsum dolor sit amet, consectetur adipiscing"
+    },
+    {
+      "id": "3",
+      "img": "./profile-3.png",
+      "header": "Claire Redfield",
+      "points": "4.5",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing. lorem ipsum dolor sit amet, consectetur adipiscing"
+    },
+    {
+      "id": "4",
+      "img": "./profile-4.png",
+      "header": "John Doe",
+      "points": "2.5",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing. lorem ipsum dolor sit amet, consectetur adipiscing"
+    }
+  ]
+}

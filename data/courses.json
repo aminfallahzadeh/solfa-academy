@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "icon": "CgPiano",
+      "header": "Piano",
+      "body": "Want to learn to play Piano? Our Piano Lessons are open to everyone."
+    },
+    {
+      "id": 2,
+      "icon": "LiaDrumSolid",
+      "header": "Drums",
+      "body": "Want to learn to play Drums? Our Drums Lessons are open to everyone."
+    },
+    {
+      "id": 3,
+      "icon": "LiaGuitarSolid",
+      "header": "Guitar",
+      "body": "Want to learn to play Guitar? Our Guitar Lessons are open to everyone."
+    },
+    {
+      "id": 4,
+      "icon": "GiTrumpet",
+      "header": "Trumpet",
+      "body": "Want to learn to play Trumpet? Our Trumpet Lessons are open to everyone."
+    },
+    {
+      "id": 5,
+      "icon": "MdOutlineKeyboardVoice",
+      "header": "Vocal",
+      "body": "Want to learn to sing? Our Vocal Lessons are open to everyone."
+    },
+    {
+      "id": 6,
+      "icon": "GiViolin",
+      "header": "Violin",
+      "body": "Want to learn to play Violin? Our Violin Lessons are open to everyone."
+    }
+  ]
+}
