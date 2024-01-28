@@ -51,7 +51,7 @@ function Navigation({ observerRefs }) {
         </span>
       </a>
       <a href="#">
-        <img src="../../public/logo.png" alt="logo" />
+        <img src="logo.png" alt="logo" />
       </a>
       <ul className="navigation__list">
         <li className="navigation__list-item">
